@@ -34,6 +34,6 @@ header nav ul li{
     margin-right: .5em;
 }
 section{
-    border-bottom: lightblue solid 2px;
-    border-top: lightblue solid 2px;
+    border-bottom: #D3D3D3 solid 2px;
+    border-top: #D3D3D3 solid 2px;
 }
