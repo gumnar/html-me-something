@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 65%;
+}
+header h1{
+    text-align: center;
+}
+header,
+main,
+footer{
+    font-size: 1.5em;
+}
+img{
+    display: block;
+    width: 50%;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    padding: 2em 0;
+}
+header nav ul{
+    text-align: center;
+    padding: 0
+}
+section{
+    border-bottom: black solid 2px;
+    border-top: black solid 2px;
+}
